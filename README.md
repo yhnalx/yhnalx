@@ -75,9 +75,9 @@ Supporting student developers through workshops, events, mentorship, and collabo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalix2003\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhnalx\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalix2003\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhnalx\&layout=compact\&theme=tokyonight)
 
 ## 🤝 Let's Connect
 
